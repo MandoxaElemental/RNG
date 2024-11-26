@@ -16,6 +16,6 @@
 [RNG GitHub Repository Link](https://github.com/MandoxaElemental/RNG)
 
 
-This has been Peer Reviewed By: 
+This has been Peer Reviewed By: Josue Rosales
 
-- 
+- Most of the page looks nice and I found no issues. The only thing I may have found to be a problematic would be that the emails are not in the code. Granted, adding the emails was not mentioned on the assignment page but Ken did let everyone know on slack that they should be added. But other than that, everything works as intended.
