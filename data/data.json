@@ -1,0 +1,169 @@
+{
+    "names": [
+        {
+            "firstName": "Mike",
+            "lastName": "Heckerman",
+            "position": "Student"
+        },
+        {
+            "firstName": "Roy",
+            "lastName": "Cade III",
+            "position": "Student"
+        },
+        {
+            "firstName": "Santiago",
+            "lastName": "Montanez",
+            "position": "Student"
+        },
+        {
+            "firstName": "Chainarung",
+            "lastName": "Dechyothin",
+            "position": "Student"
+        },
+        {
+            "firstName": "Mason",
+            "lastName": "Quillon",
+            "position": "Student"
+        },
+        {
+            "firstName": "Darryl",
+            "lastName": "Patton",
+            "position": "Student"
+        },
+        {
+            "firstName": "Juan",
+            "lastName": "Heredia",
+            "position": "Student"
+        },
+        {
+            "firstName": "Brock",
+            "lastName": "Spacek",
+            "position": "Student"
+        },
+        {
+            "firstName": "Kassandra",
+            "lastName": "Spacek",
+            "position": "Student"
+        },
+        {
+            "firstName": "Ian",
+            "lastName": "Chesley",
+            "position": "Student"
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Soria",
+            "position": "Student"
+        },
+        {
+            "firstName": "Anthony",
+            "lastName": "Duran",
+            "position": "Student"
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Sayasing",
+            "position": "Student"
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Grijalva",
+            "position": "Student"
+        },
+        {
+            "firstName": "Nolan",
+            "lastName": "Parker",
+            "position": "Student"
+        },
+        {
+            "firstName": "Theo",
+            "lastName": "Vang",
+            "position": "Student"
+        },
+        {
+            "firstName": "Aaron",
+            "lastName": "Robinson",
+            "position": "Student"
+        },
+        {
+            "firstName": "David",
+            "lastName": "Monterrosa",
+            "position": "Student"
+        },
+        {
+            "firstName": "Karen-Anne",
+            "lastName": "Cadavos",
+            "position": "Student"
+        },
+        {
+            "firstName": "Tanush",
+            "lastName": "Kumar",
+            "position": "Student"
+        },
+        {
+            "firstName": "Bowen",
+            "lastName": "Henry",
+            "position": "Student"
+        },
+        {
+            "firstName": "Alen",
+            "lastName": "Batres",
+            "position": "Student"
+        },
+        {
+            "firstName": "Gianpaolo",
+            "lastName": "Reinares",
+            "position": "Student"
+        },
+        {
+            "firstName": "Josue",
+            "lastName": "Rosales",
+            "position": "Student"
+        },
+        {
+            "firstName": "Andrie",
+            "lastName": "Amor",
+            "position": "Student"
+        },
+        {
+            "firstName": "Bronel",
+            "lastName": "Lazar",
+            "position": "Student"
+        },
+        {
+            "firstName": "Angel",
+            "lastName": "Cuevas",
+            "position": "Student"
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Wells-Hott",
+            "position": "Student"
+        },
+        {
+            "firstName": "Charles",
+            "lastName": "Orr",
+            "position": "Student"
+        },
+        {
+            "firstName": "Kenneth",
+            "lastName": "Martinez",
+            "position": "Instructor"
+        },
+        {
+            "firstName": "Jacob",
+            "lastName": "Dekok",
+            "position": "Instructor"
+        },
+        {
+            "firstName": "Isaiah",
+            "lastName": "Ferguson",
+            "position": "Instructor"
+        },
+        {
+            "firstName": "Bryan",
+            "lastName": "Stewart",
+            "position": "Instructor"
+        }
+    ]
+}
