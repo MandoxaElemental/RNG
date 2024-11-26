@@ -52,5 +52,10 @@ changeBtn.addEventListener('click', (event)=>{
         name3.innerText = randomName3.firstName + " " + randomName3.lastName;
         name4.innerText = randomName4.firstName + " " + randomName4.lastName;
         name5.innerText = randomName5.firstName + " " + randomName5.lastName;
+        prevName1.innerText = randomName1.firstName;
+        prevName2.innerText = randomName2.firstName;
+        prevName3.innerText = randomName3.firstName;
+        prevName4.innerText = randomName4.firstName;
+        prevName5.innerText = randomName5.firstName;
     })
 })
