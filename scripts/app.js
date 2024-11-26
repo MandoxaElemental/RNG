@@ -47,10 +47,10 @@ changeBtn.addEventListener('click', (event)=>{
         let randomName3 = getRandomName(names);
         let randomName4 = getRandomName(names);
         let randomName5 = getRandomName(names);
-        name1.innerText = randomName1.firstName;
-        name2.innerText = randomName2.firstName;
-        name3.innerText = randomName3.firstName;
-        name4.innerText = randomName4.firstName;
-        name5.innerText = randomName5.firstName;
+        name1.innerText = randomName1.firstName + " " + randomName1.lastName;
+        name2.innerText = randomName2.firstName + " " + randomName2.lastName;
+        name3.innerText = randomName3.firstName + " " + randomName3.lastName;
+        name4.innerText = randomName4.firstName + " " + randomName4.lastName;
+        name5.innerText = randomName5.firstName + " " + randomName5.lastName;
     })
 })
