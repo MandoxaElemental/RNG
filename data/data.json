@@ -3,167 +3,233 @@
         {
             "firstName": "Mike",
             "lastName": "Heckerman",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "mheckerman@codestack.co",
+            "email": "mkheck13@gmail.com"
         },
         {
             "firstName": "Roy",
             "lastName": "Cade III",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "rcade@codestack.co",
+            "email": "roytreslll@gmail.com"
         },
         {
             "firstName": "Santiago",
             "lastName": "Montanez",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "smontanez@codestack.co",
+            "email": "santiagomm44@gmail.co"
         },
         {
             "firstName": "Chainarung",
             "lastName": "Dechyothin",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "cdechyothin@codestack.co",
+            "email": "cdechyothin@gmail.com"
         },
         {
             "firstName": "Mason",
             "lastName": "Quillon",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "mquilon@codestack.co",
+            "email": "Quilonmason@gmail.com"
         },
         {
             "firstName": "Darryl",
             "lastName": "Patton",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "DPatton@codestack.co",
+            "email": "DLamarPatton@gmail.com"
         },
         {
             "firstName": "Juan",
             "lastName": "Heredia",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "jheredia@codestack.co",
+            "email": "madnes0205@gmail.com"
         },
         {
             "firstName": "Brock",
             "lastName": "Spacek",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "bspacek@codestack.co",
+            "email": "brockspacek1@gmail.com"
         },
         {
             "firstName": "Kassandra",
             "lastName": "Spacek",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "kspacek@codestack.co",
+            "email": "kassiespacek101@gmail.com"
         },
         {
             "firstName": "Ian",
             "lastName": "Chesley",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "ichesley@codestack.co",
+            "email": "ianchesley@yahoo.com"
         },
         {
             "firstName": "Alexander",
             "lastName": "Soria",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "asoria@codestack.co",
+            "email": "yoda4115@gmail.com"
         },
         {
             "firstName": "Anthony",
             "lastName": "Duran",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "aduran@codestack.co",
+            "email": "anthonyaduran6@gmail.com"
         },
         {
             "firstName": "Andrew",
             "lastName": "Sayasing",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "asayasing@codestack.co",
+            "email": "gettosheep56@gmail.com"
         },
         {
             "firstName": "Robert",
             "lastName": "Grijalva",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "rgrijalva@codestack.co",
+            "email": "rgrijalva@codestack.co"
         },
         {
             "firstName": "Nolan",
             "lastName": "Parker",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "NParker@codestack.co",
+            "email": "nolanrparker@gmail.com"
         },
         {
             "firstName": "Theo",
             "lastName": "Vang",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "tvang@codestack.co",
+            "email": "vangt39@gmail.com"
         },
         {
             "firstName": "Aaron",
             "lastName": "Robinson",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "arobinson@codestack.co",
+            "email": "aarmon5@gmail.com"
         },
         {
             "firstName": "David",
             "lastName": "Monterrosa",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "dmonterrosa@codestack.co",
+            "email": "dmonterrosa99@gmail.com"
         },
         {
             "firstName": "Karen-Anne",
             "lastName": "Cadavos",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "kcadavos@codestack.co",
+            "email": "karencadavos@gmail.com"
         },
         {
             "firstName": "Tanush",
             "lastName": "Kumar",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "tkumar@codestack.co",
+            "email": "nush8653@gmail.com"
         },
         {
             "firstName": "Bowen",
             "lastName": "Henry",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "bhenry@codestack.co",
+            "email": "bhenry3145@gmail.com"
         },
         {
             "firstName": "Alen",
             "lastName": "Batres",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "abatres@codestack.co",
+            "email": "alanbatres328@gmail.com"
         },
         {
             "firstName": "Gianpaolo",
             "lastName": "Reinares",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "greinares@codestack.co",
+            "email": "gprcards@gmail.com"
         },
         {
             "firstName": "Josue",
             "lastName": "Rosales",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "jrosales@codestack.co",
+            "email": "Josue04Rosales@gmail.com"
         },
         {
             "firstName": "Andrie",
             "lastName": "Amor",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "aamor@codedstack.co",
+            "email": "amorandrie5@gmail.com"
         },
         {
             "firstName": "Bronel",
             "lastName": "Lazar",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "blazar@codestack.co",
+            "email": "bronellazar@gmail.com"
         },
         {
             "firstName": "Angel",
             "lastName": "Cuevas",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "acuevas@codestack.co",
+            "email": "aocuevas123@gmail.com"
         },
         {
             "firstName": "Chris",
             "lastName": "Wells-Hott",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "cwellshott@codestack.co",
+            "email": "cwellshott@gmail.com"
         },
         {
             "firstName": "Charles",
             "lastName": "Orr",
-            "position": "Student"
+            "position": "Student",
+            "codestack": "corr@codestack.co",
+            "email": "Chas2687@gmail.com"
         },
         {
             "firstName": "Kenneth",
             "lastName": "Martinez",
-            "position": "Instructor"
+            "position": "Instructor",
+            "codestack": "kmartinez@codestack.co",
+            "email": "kmartinez@sjcoe.net"
         },
         {
             "firstName": "Jacob",
             "lastName": "Dekok",
-            "position": "Instructor"
+            "position": "Instructor",
+            "codestack": "jdekok@codestack.co",
+            "email": "n/a"
         },
         {
             "firstName": "Isaiah",
             "lastName": "Ferguson",
-            "position": "Instructor"
+            "position": "Instructor",
+            "codestack": "ifurguson@codestack.co",
+            "email": "iferguson@sjcoe.net"
         },
         {
             "firstName": "Bryan",
             "lastName": "Stewart",
-            "position": "Instructor"
+            "position": "Instructor",
+            "codestack": "bstewart@codestack.co",
+            "email": "bstewart@sjcoe.net"
         }
     ]
 }
